@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Albe Albe460",
 			"Beta16",
 			"Gianfranco",
@@ -71,6 +72,7 @@
 	"start-kiwix-server": "Avvia server Kiwix",
 	"all": "Tutto",
 	"other": "Altro",
+	"vikidia": "Vikidia",
 	"wikibooks": "Wikibooks",
 	"wikinews": "Wikinotizie",
 	"wikipedia": "Wikipedia",
